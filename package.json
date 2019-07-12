@@ -13,8 +13,14 @@
   ],
   "author": "mzp",
   "contributors": [
-    {"name": "mzp"},
-    {"name": "meltedice", "url": "https://github.com/meltedice", "email": "meltedise@gmail.com"}
+    {
+      "name": "mzp"
+    },
+    {
+      "name": "meltedice",
+      "url": "https://github.com/meltedice",
+      "email": "meltedise@gmail.com"
+    }
   ],
   "license": "MIT",
   "bugs": {
