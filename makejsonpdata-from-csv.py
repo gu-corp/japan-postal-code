@@ -79,23 +79,23 @@ def normalize_city_ja(city_ja):
 def normalize_city_en(city_ro):
     """ Normalize english city name
     >>> normalize_city_en('KUMA GUN ITSUKI MURA')
-    'Itsuki, Kuma District'
+    'Itsuki-mura, Kuma-gun'
     >>> normalize_city_en('OSAKA SHI CHUO KU')
-    'Chuo Ward, Osaka'
+    'Chuo-ku, Osaka-shi'
     >>> normalize_city_en('NAGOYA SHI CHIKUSA KU')
-    'Chikusa Ward, Nagoya'
+    'Chikusa-ku, Nagoya-shi'
     >>> normalize_city_en('SEMBOKU SHI')
-    'Semboku'
+    'Semboku-shi'
     >>> normalize_city_en('AOMORI SHI')
-    'Aomori'
+    'Aomori-shi'
     >>> normalize_city_en('DATE GUN KORI MACHI')
-    'Kori, Date District'
+    'Kori-machi, Date-gun'
     >>> normalize_city_en('OSAKI SHI')
-    'Osaki'
+    'Osaki-shi'
     >>> normalize_city_en('ISHIKARI GUN TOBETSU CHO')
-    'Tobetsu, Ishikari District'
+    'Tobetsu-cho, Ishikari-gun'
     >>> normalize_city_en('SAIHAKU GUN HIEZU SON')
-    'Hiezu, Saihaku District'
+    'Hiezu-son, Saihaku-gun'
     """
 
     words = city_ro.split(' ')
@@ -103,16 +103,9 @@ def normalize_city_en(city_ro):
     sections = []
     section_words = []
     for word in words:
-        if word == 'Ku':
-            section_words.append('Ward')
-            sections.append(' '.join(section_words))
-            section_words = []
-        elif word == 'Gun':
-            section_words.append('District')
-            sections.append(' '.join(section_words))
-            section_words = []
-        elif word in ['Shi', 'Cho', 'Machi', 'Son', 'Mura']:
-            sections.append(' '.join(section_words))
+        if word in ['Shi', 'Ku', 'Gun', 'Cho', 'Machi', 'Son', 'Mura']:
+            section_words.append(''.join(['-', word.lower()]))
+            sections.append(''.join(section_words))
             section_words = []
         else:
             section_words.append(word)
