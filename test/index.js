@@ -11,10 +11,10 @@ describe('#get', function () {
       expect(address.street).to.eql('');
       expect(address.address).to.eql('東京都千代田区千代田');
       expect(address.prefectureEn).to.eql("Tokyo");
-      expect(address.cityEn).to.eql("Chiyoda Ward");
+      expect(address.cityEn).to.eql("Chiyoda-ku");
       expect(address.areaEn).to.eql("Chiyoda");
       expect(address.streetEn).to.eql("");
-      expect(address.addressEn).to.eql("Chiyoda, Chiyoda Ward, Tokyo, Japan");
+      expect(address.addressEn).to.eql("Chiyoda, Chiyoda-ku, Tokyo, Japan");
       delete global.zipdata;
       done();
     });
@@ -29,10 +29,10 @@ describe('#get', function () {
       expect(address.street).to.eql('');
       expect(address.address).to.eql('東京都千代田区千代田');
       expect(address.prefectureEn).to.eql("Tokyo");
-      expect(address.cityEn).to.eql("Chiyoda Ward");
+      expect(address.cityEn).to.eql("Chiyoda-ku");
       expect(address.areaEn).to.eql("Chiyoda");
       expect(address.streetEn).to.eql("");
-      expect(address.addressEn).to.eql("Chiyoda, Chiyoda Ward, Tokyo, Japan");
+      expect(address.addressEn).to.eql("Chiyoda, Chiyoda-ku, Tokyo, Japan");
       delete global.zipdata;
       done();
     });
@@ -62,10 +62,10 @@ describe('#getMulti', function () {
       expect(addresses[0].street).to.eql("");
       expect(addresses[0].address).to.eql("北海道紋別郡滝上町第３区");
       expect(addresses[0].prefectureEn).to.eql("Hokkaido");
-      expect(addresses[0].cityEn).to.eql("Takinoe, Mombetsu District");
+      expect(addresses[0].cityEn).to.eql("Takinoe-cho, Mombetsu-gun");
       expect(addresses[0].areaEn).to.eql("Dai3-ku");
       expect(addresses[0].streetEn).to.eql("");
-      expect(addresses[0].addressEn).to.eql("Dai3-ku, Takinoe, Mombetsu District, Hokkaido, Japan");
+      expect(addresses[0].addressEn).to.eql("Dai3-ku, Takinoe-cho, Mombetsu-gun, Hokkaido, Japan");
 
       expect(addresses[1].prefectureId).to.eql(1);
       expect(addresses[1].prefecture).to.eql("北海道");
@@ -74,10 +74,10 @@ describe('#getMulti', function () {
       expect(addresses[1].street).to.eql("");
       expect(addresses[1].address).to.eql("北海道紋別郡滝上町第４区");
       expect(addresses[1].prefectureEn).to.eql("Hokkaido");
-      expect(addresses[1].cityEn).to.eql("Takinoe, Mombetsu District");
+      expect(addresses[1].cityEn).to.eql("Takinoe-cho, Mombetsu-gun");
       expect(addresses[1].areaEn).to.eql("Dai4-ku");
       expect(addresses[1].streetEn).to.eql("");
-      expect(addresses[1].addressEn).to.eql("Dai4-ku, Takinoe, Mombetsu District, Hokkaido, Japan");
+      expect(addresses[1].addressEn).to.eql("Dai4-ku, Takinoe-cho, Mombetsu-gun, Hokkaido, Japan");
 
       expect(addresses[2].prefectureId).to.eql(1);
       expect(addresses[2].prefecture).to.eql("北海道");
@@ -86,10 +86,10 @@ describe('#getMulti', function () {
       expect(addresses[2].street).to.eql("");
       expect(addresses[2].address).to.eql("北海道紋別郡滝上町第５区");
       expect(addresses[2].prefectureEn).to.eql("Hokkaido");
-      expect(addresses[2].cityEn).to.eql("Takinoe, Mombetsu District");
+      expect(addresses[2].cityEn).to.eql("Takinoe-cho, Mombetsu-gun");
       expect(addresses[2].areaEn).to.eql("Dai5-ku");
       expect(addresses[2].streetEn).to.eql("");
-      expect(addresses[2].addressEn).to.eql("Dai5-ku, Takinoe, Mombetsu District, Hokkaido, Japan");
+      expect(addresses[2].addressEn).to.eql("Dai5-ku, Takinoe-cho, Mombetsu-gun, Hokkaido, Japan");
 
       expect(addresses[3].prefectureId).to.eql(1);
       expect(addresses[3].prefecture).to.eql("北海道");
@@ -98,10 +98,10 @@ describe('#getMulti', function () {
       expect(addresses[3].street).to.eql("");
       expect(addresses[3].address).to.eql("北海道紋別郡滝上町滝西");
       expect(addresses[3].prefectureEn).to.eql("Hokkaido");
-      expect(addresses[3].cityEn).to.eql("Takinoe, Mombetsu District");
+      expect(addresses[3].cityEn).to.eql("Takinoe-cho, Mombetsu-gun");
       expect(addresses[3].areaEn).to.eql("Takinishi");
       expect(addresses[3].streetEn).to.eql("");
-      expect(addresses[3].addressEn).to.eql("Takinishi, Takinoe, Mombetsu District, Hokkaido, Japan");
+      expect(addresses[3].addressEn).to.eql("Takinishi, Takinoe-cho, Mombetsu-gun, Hokkaido, Japan");
 
       delete global.zipdata;
       done();
