@@ -46,5 +46,6 @@ zipdata({
 	"5240212":[[25,"守山市","服部町","","Moriyama-shi","Hattoricho",""]],
 	"5240213":[[25,"守山市","新庄町","","Moriyama-shi","Shinjocho",""]],
 	"5240214":[[25,"守山市","立田町","","Moriyama-shi","Tatsutacho",""]],
-	"5240215":[[25,"守山市","幸津川町","","Moriyama-shi","Sazukawacho",""]]
+	"5240215":[[25,"守山市","幸津川町","","Moriyama-shi","Sazukawacho",""]],
+	"5240216":[[25,"守山市","環境学習都市宣言記念公園","","Moriyama-shi","Kankyogakushutoshisengenkinenkoen",""]]
 })

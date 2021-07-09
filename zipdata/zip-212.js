@@ -1,9 +1,9 @@
 zipdata({
 	"2120000":[[14,"川崎市幸区","","","Saiwai-ku, Kawasaki-shi","",""]],
-	"2120001":[[14,"川崎市幸区","小向東芝町","","Saiwai-ku, Kawasaki-shi","Komukai Toshibacho",""]],
-	"2120002":[[14,"川崎市幸区","小向仲野町","","Saiwai-ku, Kawasaki-shi","Komukai Nakanocho",""]],
+	"2120001":[[14,"川崎市幸区","小向東芝町","","Saiwai-ku, Kawasaki-shi","Komukaitoshibacho",""]],
+	"2120002":[[14,"川崎市幸区","小向仲野町","","Saiwai-ku, Kawasaki-shi","Komukainakanocho",""]],
 	"2120003":[[14,"川崎市幸区","小向町","","Saiwai-ku, Kawasaki-shi","Komukaicho",""]],
-	"2120004":[[14,"川崎市幸区","小向西町","","Saiwai-ku, Kawasaki-shi","Komukai Nishimachi",""]],
+	"2120004":[[14,"川崎市幸区","小向西町","","Saiwai-ku, Kawasaki-shi","Komukainishimachi",""]],
 	"2120005":[[14,"川崎市幸区","戸手","","Saiwai-ku, Kawasaki-shi","Tote",""]],
 	"2120006":[[14,"川崎市幸区","遠藤町","","Saiwai-ku, Kawasaki-shi","Endomachi",""]],
 	"2120007":[[14,"川崎市幸区","河原町","","Saiwai-ku, Kawasaki-shi","Kawaramachi",""]],

@@ -329,6 +329,7 @@ zipdata({
 	"3701504":[[10,"多野郡神流町","万場","","Kanna-machi, Tano-gun","Mamba",""]],
 	"3701505":[[10,"多野郡神流町","森戸","","Kanna-machi, Tano-gun","Morido",""]],
 	"3701506":[[10,"多野郡神流町","黒田","","Kanna-machi, Tano-gun","Kuroda",""]],
+	"3701507":[[11,"秩父市","吉田太田部","","Chichibu-shi","Yoshida Otabu",""]],
 	"3701511":[[10,"多野郡神流町","相原","","Kanna-machi, Tano-gun","Aibara",""]],
 	"3701512":[[10,"多野郡神流町","青梨","","Kanna-machi, Tano-gun","Aonashi",""]],
 	"3701513":[[10,"多野郡神流町","小平","","Kanna-machi, Tano-gun","Kodaira",""]],

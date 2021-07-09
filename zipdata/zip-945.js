@@ -90,7 +90,7 @@ zipdata({
 	"9450401":[[15,"柏崎市","椎谷","","Kashiwazaki-shi","Shiiya",""]],
 	"9450402":[[15,"柏崎市","宮川","","Kashiwazaki-shi","Miyagawa",""]],
 	"9450403":[[15,"柏崎市","大湊","","Kashiwazaki-shi","Ominato",""]],
-	"9450811":[[15,"柏崎市","岩上","","Kashiwazaki-shi","Iwakami",""]],
+	"9450811":[[15,"柏崎市","岩上","","Kashiwazaki-shi","Iwagami",""]],
 	"9450812":[[15,"柏崎市","半田","","Kashiwazaki-shi","Handa",""]],
 	"9450813":[[15,"柏崎市","南半田","","Kashiwazaki-shi","Minamihanda",""]],
 	"9450814":[[15,"柏崎市","朝日が丘","","Kashiwazaki-shi","Asahigaoka",""]],

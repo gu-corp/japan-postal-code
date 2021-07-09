@@ -100,6 +100,5 @@ zipdata({
 	"5960842":[[27,"岸和田市","真上町","","Kishiwada-shi","Magamicho",""]],
 	"5960843":[[27,"岸和田市","北阪町","","Kishiwada-shi","Kitasakacho",""]],
 	"5960844":[[27,"岸和田市","土生滝町","","Kishiwada-shi","Habutakicho",""]],
-	"5960845":[[27,"岸和田市","阿間河滝町","","Kishiwada-shi","Amakadakicho",""]],
-	"5960901":[[27,"貝塚市","清児新町","","Kaizuka-shi","Sechigoshimmachi",""]]
+	"5960845":[[27,"岸和田市","阿間河滝町","","Kishiwada-shi","Amakadakicho",""]]
 })

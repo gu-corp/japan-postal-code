@@ -1,4 +1,5 @@
 zipdata({
+	"1950039":[[13,"町田市","藤の台","","Machida-shi","Fujinodai",""]],
 	"1950051":[[13,"町田市","真光寺町","","Machida-shi","Shinkojimachi",""]],
 	"1950052":[[13,"町田市","広袴町","","Machida-shi","Hirobakamamachi",""]],
 	"1950053":[[13,"町田市","能ヶ谷","","Machida-shi","Nogaya",""]],
@@ -14,5 +15,6 @@ zipdata({
 	"1950072":[[13,"町田市","金井","","Machida-shi","Kanai",""]],
 	"1950073":[[13,"町田市","薬師台","","Machida-shi","Yakushidai",""]],
 	"1950074":[[13,"町田市","山崎町","","Machida-shi","Yamazakimachi",""]],
-	"1950075":[[13,"町田市","山崎","","Machida-shi","Yamazaki",""]]
+	"1950075":[[13,"町田市","山崎","","Machida-shi","Yamazaki",""]],
+	"1950076":[[13,"町田市","金井ヶ丘","","Machida-shi","Kanaigaoka",""]]
 })

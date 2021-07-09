@@ -128,8 +128,10 @@ zipdata({
 	"7596602":[[35,"下関市","蒲生野","","Shimonoseki-shi","Kamono",""]],
 	"7596603":[[35,"下関市","安岡町","","Shimonoseki-shi","Yasuokacho",""]],
 	"7596604":[[35,"下関市","横野町","","Shimonoseki-shi","Yokonocho",""]],
+	"7596605":[[35,"下関市","安岡","","Shimonoseki-shi","Yasuoka",""]],
 	"7596611":[[35,"下関市","安岡本町","","Shimonoseki-shi","Yasuokahommachi",""]],
 	"7596612":[[35,"下関市","安岡駅前","","Shimonoseki-shi","Yasuokaekimae",""]],
 	"7596613":[[35,"下関市","富任町","","Shimonoseki-shi","Tomitocho",""]],
-	"7596614":[[35,"下関市","梶栗町","","Shimonoseki-shi","Kajikuricho",""]]
+	"7596614":[[35,"下関市","梶栗町","","Shimonoseki-shi","Kajikuricho",""]],
+	"7596615":[[35,"下関市","冨任","","Shimonoseki-shi","Tomito",""]]
 })

@@ -52,7 +52,7 @@ zipdata({
 	"6360141":[[29,"生駒郡斑鳩町","稲葉車瀬","","Ikaruga-cho, Ikoma-gun","Inabakurumase",""]],
 	"6360142":[[29,"生駒郡斑鳩町","小吉田","","Ikaruga-cho, Ikoma-gun","Koyoshida",""]],
 	"6360143":[[29,"生駒郡斑鳩町","神南","","Ikaruga-cho, Ikoma-gun","Jinnan",""]],
-	"6360144":[[29,"生駒郡斑鳩町","稲葉西","","Ikaruga-cho, Ikoma-gun","Inaba Nishi",""]],
+	"6360144":[[29,"生駒郡斑鳩町","稲葉西","","Ikaruga-cho, Ikoma-gun","Inabanishi",""]],
 	"6360151":[[29,"生駒郡斑鳩町","龍田北","","Ikaruga-cho, Ikoma-gun","Tatsuta Kita",""]],
 	"6360152":[[29,"生駒郡斑鳩町","龍田","","Ikaruga-cho, Ikoma-gun","Tatsuta",""]],
 	"6360153":[[29,"生駒郡斑鳩町","龍田南","","Ikaruga-cho, Ikoma-gun","Tatsuta Minami",""]],

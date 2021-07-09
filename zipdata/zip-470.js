@@ -56,6 +56,7 @@ zipdata({
 	"4700215":[[23,"みよし市","みなよし台","","Miyoshi-shi","Minayoshidai",""]],
 	"4700216":[[23,"みよし市","南台","","Miyoshi-shi","Minamidai",""]],
 	"4700217":[[23,"みよし市","根浦町","","Miyoshi-shi","Neuramachi",""]],
+	"4700218":[[23,"みよし市","黒笹山手","","Miyoshi-shi","Kurozasa Yamate",""]],
 	"4700221":[[23,"みよし市","西陣取山","","Miyoshi-shi","Nishijintoriyama",""]],
 	"4700222":[[23,"みよし市","東陣取山","","Miyoshi-shi","Higashijintoriyama",""]],
 	"4700223":[[23,"みよし市","東蜂ヶ池","","Miyoshi-shi","Higashihachigaike",""]],

@@ -176,7 +176,7 @@ zipdata({
 	"7983301":[[38,"宇和島市","津島町岩松","","Uwajima-shi","Tsushimacho Iwamatsu",""]],
 	"7983302":[[38,"宇和島市","津島町高田","","Uwajima-shi","Tsushimacho Takata",""]],
 	"7983303":[[38,"宇和島市","津島町近家","","Uwajima-shi","Tsushimacho Chikaie",""]],
-	"7983311":[[38,"宇和島市","津島町岩淵","","Uwajima-shi","Tsushimacho Iwabuchi",""]],
+	"7983311":[[38,"宇和島市","津島町岩渕","","Uwajima-shi","Tsushimacho Iwabuchi",""]],
 	"7983312":[[38,"宇和島市","津島町山財","","Uwajima-shi","Tsushimacho Sanzai",""]],
 	"7983313":[[38,"宇和島市","津島町増穂","","Uwajima-shi","Tsushimacho Masuho",""]],
 	"7983321":[[38,"宇和島市","津島町下畑地","","Uwajima-shi","Tsushimacho Shimohataji",""]],

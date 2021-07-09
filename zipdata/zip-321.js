@@ -309,7 +309,7 @@ zipdata({
 	"3212113":[[9,"宇都宮市","下横倉町","","Utsunomiya-shi","Shimoyokokuramachi",""]],
 	"3212114":[[9,"宇都宮市","下金井町","","Utsunomiya-shi","Shimokanaimachi",""]],
 	"3212115":[[9,"宇都宮市","上金井町","","Utsunomiya-shi","Kamikanaimachi",""]],
-	"3212116":[[9,"宇都宮市","徳次郎町","","Utsunomiya-shi","Tokujiromachi",""]],
+	"3212116":[[9,"宇都宮市","徳次郎町","","Utsunomiya-shi","Tokujiramachi",""]],
 	"3212117":[[9,"宇都宮市","岩原町","","Utsunomiya-shi","Iwaharamachi",""]],
 	"3212118":[[9,"宇都宮市","新里町","","Utsunomiya-shi","Nissatomachi",""]],
 	"3212331":[[9,"日光市","針貝","","Nikko-shi","Harigai",""]],

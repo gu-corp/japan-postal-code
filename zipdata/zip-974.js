@@ -1,11 +1,11 @@
 zipdata({
 	"9740151":[[7,"いわき市","田人町黒田","","Iwaki-shi","Tabitomachi Kuroda",""]],
-	"9740152":[[7,"いわき市","田人町旅人","","Iwaki-shi","Tabitomachitabiuto",""]],
+	"9740152":[[7,"いわき市","田人町旅人","","Iwaki-shi","Tabitomachi Tabiuto",""]],
 	"9740153":[[7,"いわき市","田人町南大平","","Iwaki-shi","Tabitomachiminamiodaira",""]],
 	"9740241":[[7,"いわき市","田人町荷路夫","","Iwaki-shi","Tabitomachi Nichibu",""]],
 	"9740242":[[7,"いわき市","田人町貝泊","","Iwaki-shi","Tabitomachi Kaidomari",""]],
 	"9740243":[[7,"いわき市","田人町石住","","Iwaki-shi","Tabitomachi Ishizumi",""]],
-	"9740252":[[7,"いわき市","田人町旅人","","Iwaki-shi","Tabitomachitabiuto",""]],
+	"9740252":[[7,"いわき市","田人町旅人","","Iwaki-shi","Tabitomachi Tabiuto",""]],
 	"9748201":[[7,"いわき市","江畑町","","Iwaki-shi","Ebatamachi",""]],
 	"9748202":[[7,"いわき市","添野町","","Iwaki-shi","Soenomachi",""]],
 	"9748203":[[7,"いわき市","後田町","","Iwaki-shi","Ushirodamachi",""]],

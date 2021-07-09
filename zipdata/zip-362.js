@@ -58,6 +58,10 @@ zipdata({
 	"3620074":[[11,"上尾市","春日","","Ageo-shi","Kasuga",""]],
 	"3620075":[[11,"上尾市","柏座","","Ageo-shi","Kashiwaza",""]],
 	"3620076":[[11,"上尾市","弁財","","Ageo-shi","Benzai",""]],
+	"3620081":[[11,"上尾市","壱丁目北","","Ageo-shi","Itchomekita",""]],
+	"3620082":[[11,"上尾市","壱丁目東","","Ageo-shi","Itchomehigashi",""]],
+	"3620083":[[11,"上尾市","壱丁目南","","Ageo-shi","Itchomeminami",""]],
+	"3620084":[[11,"上尾市","壱丁目西","","Ageo-shi","Itchomenishi",""]],
 	"3620800":[[11,"北足立郡伊奈町","","","Ina-machi, Kitaadachi-gun","",""]],
 	"3620801":[[11,"北足立郡伊奈町","小針内宿","","Ina-machi, Kitaadachi-gun","Kobariuchijuku",""]],
 	"3620802":[[11,"北足立郡伊奈町","羽貫","","Ina-machi, Kitaadachi-gun","Hanuki",""]],
@@ -67,6 +71,7 @@ zipdata({
 	"3620806":[[11,"北足立郡伊奈町","小室","","Ina-machi, Kitaadachi-gun","Komuro",""]],
 	"3620807":[[11,"北足立郡伊奈町","寿","","Ina-machi, Kitaadachi-gun","Kotobuki",""]],
 	"3620808":[[11,"北足立郡伊奈町","小針新宿","","Ina-machi, Kitaadachi-gun","Kobarishinshuku",""]],
+	"3620809":[[11,"北足立郡伊奈町","中央","","Ina-machi, Kitaadachi-gun","Chuo",""]],
 	"3620811":[[11,"北足立郡伊奈町","西小針","","Ina-machi, Kitaadachi-gun","Nishikobari",""]],
 	"3620812":[[11,"北足立郡伊奈町","内宿台","","Ina-machi, Kitaadachi-gun","Uchijukudai",""]],
 	"3620813":[[11,"北足立郡伊奈町","学園","","Ina-machi, Kitaadachi-gun","Gakuen",""]]

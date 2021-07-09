@@ -315,7 +315,7 @@ zipdata({
 	"6048224":[[26,"京都市中京区","炭之座町","","Nakagyo-ku, Kyoto-shi","Suminozacho",""]],
 	"6048225":[[26,"京都市中京区","蟷螂山町","","Nakagyo-ku, Kyoto-shi","Toroyamacho",""]],
 	"6048226":[[26,"京都市中京区","西錦小路町","","Nakagyo-ku, Kyoto-shi","Nishinishikikojicho",""]],
-	"6048227":[[26,"京都市中京区","古西町","","Nakagyo-ku, Kyoto-shi","Furunishicho",""]],
+	"6048227":[[26,"京都市中京区","古西町","","Nakagyo-ku, Kyoto-shi","Konishicho",""]],
 	"6048231":[[26,"京都市中京区","元本能寺南町","","Nakagyo-ku, Kyoto-shi","Motohonnojiminamicho",""]],
 	"6048232":[[26,"京都市中京区","空也町","","Nakagyo-ku, Kyoto-shi","Kuyacho",""]],
 	"6048233":[[26,"京都市中京区","藤本町","","Nakagyo-ku, Kyoto-shi","Fujimotocho",""]],

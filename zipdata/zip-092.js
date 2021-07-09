@@ -40,7 +40,7 @@ zipdata({
 	"0920064":[[1,"網走郡美幌町","青葉","","Bihoro-cho, Abashiri-gun","Aoba",""]],
 	"0920065":[[1,"網走郡美幌町","青山南","","Bihoro-cho, Abashiri-gun","Aoyama Minami",""]],
 	"0920066":[[1,"網走郡美幌町","青山北","","Bihoro-cho, Abashiri-gun","Aoyama Kita",""]],
-	"0920067":[[1,"網走郡美幌町","三橋南","","Bihoro-cho, Abashiri-gun","Mitsuhashi Minami",""]],
+	"0920067":[[1,"網走郡美幌町","三橋南","","Bihoro-cho, Abashiri-gun","Mitsuhashiminami",""]],
 	"0920068":[[1,"網走郡美幌町","三橋町","","Bihoro-cho, Abashiri-gun","Mitsuhashicho",""]],
 	"0920069":[[1,"網走郡美幌町","日の出","","Bihoro-cho, Abashiri-gun","Hinode",""]],
 	"0920171":[[1,"網走郡美幌町","美富","","Bihoro-cho, Abashiri-gun","Mitomi",""]],

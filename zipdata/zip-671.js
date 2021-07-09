@@ -91,7 +91,7 @@ zipdata({
 	"6711205":[[28,"姫路市","勝原区大谷","","Himeji-shi","Katsuharaku Otani",""]],
 	"6711211":[[28,"姫路市","勝原区熊見","","Himeji-shi","Katsuharaku Kumami",""]],
 	"6711212":[[28,"姫路市","勝原区勝原町","","Himeji-shi","Katsuharaku Katsuharacho",""]],
-	"6711213":[[28,"姫路市","勝原区宮田","","Himeji-shi","Katsuharaku Miyata",""]],
+	"6711213":[[28,"姫路市","勝原区宮田","","Himeji-shi","Katsuharaku Miyada",""]],
 	"6711214":[[28,"姫路市","勝原区山戸","","Himeji-shi","Katsuharaku Yamato",""]],
 	"6711221":[[28,"姫路市","網干区田井","","Himeji-shi","Aboshiku Tai",""]],
 	"6711222":[[28,"姫路市","網干区宮内","","Himeji-shi","Aboshiku Miyauchi",""]],

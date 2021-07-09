@@ -228,6 +228,6 @@ zipdata({
 	"7014302":[[33,"瀬戸内市","牛窓町牛窓","","Setochi-shi","Ushimadocho Ushimado",""]],
 	"7014303":[[33,"瀬戸内市","牛窓町鹿忍","","Setochi-shi","Ushimadocho Kashino",""]],
 	"7014304":[[33,"瀬戸内市","牛窓町千手","","Setochi-shi","Ushimadocho Senzu",""]],
-	"7014501":[[33,"瀬戸内市","邑久町虫明","","Setochi-shi","Okucho Mushiake",""]],
+	"7014501":[[33,"瀬戸内市","邑久町虫明","","Setochi-shi","Okucho Mushiage",""]],
 	"7014502":[[33,"瀬戸内市","邑久町福谷","","Setochi-shi","Okucho Fukutani",""]]
 })

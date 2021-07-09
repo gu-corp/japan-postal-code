@@ -25,6 +25,7 @@ zipdata({
 	"9820034":[[4,"仙台市太白区","西多賀","","Taihaku-ku, Sendai-shi","Nishitaga",""]],
 	"9820035":[[4,"仙台市太白区","大谷地","","Taihaku-ku, Sendai-shi","Oyachi",""]],
 	"9820036":[[4,"仙台市太白区","富沢南","","Taihaku-ku, Sendai-shi","Tomizawaminami",""]],
+	"9820037":[[4,"仙台市太白区","富沢西","","Taihaku-ku, Sendai-shi","Tomizawanishi",""]],
 	"9820211":[[4,"仙台市太白区","佐保山","","Taihaku-ku, Sendai-shi","Sahoyama",""]],
 	"9820212":[[4,"仙台市太白区","太白","","Taihaku-ku, Sendai-shi","Taihaku",""]],
 	"9820213":[[4,"仙台市太白区","山田自由ケ丘","","Taihaku-ku, Sendai-shi","Yamadajiyugaoka",""]],

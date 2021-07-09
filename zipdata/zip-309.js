@@ -6,7 +6,7 @@ zipdata({
 	"3091105":[[8,"筑西市","三郷","","Chikusei-shi","Sango",""]],
 	"3091106":[[8,"筑西市","新治","","Chikusei-shi","Niihari",""]],
 	"3091107":[[8,"筑西市","門井","","Chikusei-shi","Kadoi",""]],
-	"3091108":[[8,"筑西市","井出蛯沢","","Chikusei-shi","Iteebisawa",""]],
+	"3091108":[[8,"筑西市","井出蛯沢","","Chikusei-shi","Ideebisawa",""]],
 	"3091111":[[8,"筑西市","上星谷","","Chikusei-shi","Kamihoshiya",""]],
 	"3091112":[[8,"筑西市","八幡","","Chikusei-shi","Yahata",""]],
 	"3091113":[[8,"筑西市","柳","","Chikusei-shi","Yanagi",""]],

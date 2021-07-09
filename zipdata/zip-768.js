@@ -33,6 +33,7 @@ zipdata({
 	"7680074":[[37,"観音寺市","幸町","","Kanonji-shi","Saiwaicho",""]],
 	"7680075":[[37,"観音寺市","西本町","","Kanonji-shi","Nishihommachi",""]],
 	"7680076":[[37,"観音寺市","港町","","Kanonji-shi","Minatomachi",""]],
+	"7680077":[[37,"観音寺市","凪瀬町","","Kanonji-shi","Nagisecho",""]],
 	"7680101":[[37,"三豊市","山本町辻","","Mitoyo-shi","Yamamotocho Tsuji",""]],
 	"7680102":[[37,"三豊市","山本町大野","","Mitoyo-shi","Yamamotocho Ono",""]],
 	"7680103":[[37,"三豊市","山本町財田西","","Mitoyo-shi","Yamamotocho Saitanishi",""]],

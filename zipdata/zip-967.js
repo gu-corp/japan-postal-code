@@ -47,7 +47,7 @@ zipdata({
 	"9670341":[[7,"南会津郡南会津町","穴原","","Minamiaizu-machi, Minamiaizu-gun","Anabara",""]],
 	"9670342":[[7,"南会津郡南会津町","助木生","","Minamiaizu-machi, Minamiaizu-gun","Sukegyu",""]],
 	"9670343":[[7,"南会津郡南会津町","小高林","","Minamiaizu-machi, Minamiaizu-gun","Kotakabayashi",""]],
-	"9670344":[[7,"南会津郡南会津町","上ミノ原","","Minamiaizu-machi, Minamiaizu-gun","Kaminohara",""]],
+	"9670344":[[7,"南会津郡南会津町","上ノ原","","Minamiaizu-machi, Minamiaizu-gun","Kaminohara",""]],
 	"9670345":[[7,"南会津郡南会津町","木賊","","Minamiaizu-machi, Minamiaizu-gun","Tokusa",""]],
 	"9670346":[[7,"南会津郡南会津町","川衣","","Minamiaizu-machi, Minamiaizu-gun","Kawaginu",""]],
 	"9670347":[[7,"南会津郡南会津町","宮里","","Minamiaizu-machi, Minamiaizu-gun","Miyazato",""]],

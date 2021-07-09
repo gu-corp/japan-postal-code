@@ -51,6 +51,7 @@ zipdata({
 	"4411204":[[23,"豊川市","西原町","","Toyokawa-shi","Nishibaracho",""]],
 	"4411205":[[23,"豊川市","大木町","","Toyokawa-shi","Ogicho",""]],
 	"4411206":[[23,"豊川市","篠田町","","Toyokawa-shi","Shinodacho",""]],
+	"4411207":[[23,"豊川市","大木新町通","","Toyokawa-shi","Ogishimmachidori",""]],
 	"4411211":[[23,"豊川市","江島町","","Toyokawa-shi","Ejimacho",""]],
 	"4411212":[[23,"豊川市","金沢町","","Toyokawa-shi","Kanazawacho",""]],
 	"4411221":[[23,"豊川市","松原町","","Toyokawa-shi","Matsubaracho",""]],

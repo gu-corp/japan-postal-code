@@ -142,7 +142,7 @@ zipdata({
 	"9640858":[[7,"二本松市","姫子松","","Nihommatsu-shi","Himekomatsu",""]],
 	"9640859":[[7,"二本松市","中江","","Nihommatsu-shi","Nakae",""]],
 	"9640861":[[7,"二本松市","西池","","Nihommatsu-shi","Nishiike",""]],
-	"9640862":[[7,"二本松市","杉田駄子内","","Nihommatsu-shi","Sugita Dagochi",""]],
+	"9640862":[[7,"二本松市","杉田駄子内","","Nihommatsu-shi","Sugita Dangochi",""]],
 	"9640863":[[7,"二本松市","片岸","","Nihommatsu-shi","Katagishi",""]],
 	"9640864":[[7,"二本松市","社前","","Nihommatsu-shi","Yashiromae",""]],
 	"9640865":[[7,"二本松市","杉田町","","Nihommatsu-shi","Sugitamachi",""]],

@@ -138,7 +138,7 @@ zipdata({
 	"9880241":[[4,"気仙沼市","波路上岩井崎","","Kesennuma-shi","Hajikami Iwaisaki",""]],
 	"9880242":[[4,"気仙沼市","波路上崎野","","Kesennuma-shi","Hajikami Sakino",""]],
 	"9880243":[[4,"気仙沼市","波路上牧","","Kesennuma-shi","Hajikami Magi",""]],
-	"9880244":[[4,"気仙沼市","波路上明戸","","Kesennuma-shi","Hajikamiakedo",""]],
+	"9880244":[[4,"気仙沼市","波路上明戸","","Kesennuma-shi","Hajikami Akedo",""]],
 	"9880245":[[4,"気仙沼市","波路上杉ノ下","","Kesennuma-shi","Hajikami Suginoshita",""]],
 	"9880246":[[4,"気仙沼市","波路上瀬向","","Kesennuma-shi","Hajikami Semukai",""]],
 	"9880247":[[4,"気仙沼市","波路上内沼","","Kesennuma-shi","Hajikami Uchinuma",""]],

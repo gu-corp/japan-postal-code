@@ -18,7 +18,7 @@ zipdata({
 	"5650823":[[27,"吹田市","山田南","","Suita-shi","Yamada Minami",""]],
 	"5650824":[[27,"吹田市","山田西","","Suita-shi","Yamada Nishi",""]],
 	"5650825":[[27,"吹田市","山田北","","Suita-shi","Yamada Kita",""]],
-	"5650826":[[27,"吹田市","千里万博公園","","Suita-shi","Senri Bampakukoen",""]],
+	"5650826":[[27,"吹田市","千里万博公園","","Suita-shi","Senribampakukoen",""]],
 	"5650831":[[27,"吹田市","五月が丘東","","Suita-shi","Satsukigaoka Higashi",""]],
 	"5650832":[[27,"吹田市","五月が丘南","","Suita-shi","Satsukigaoka Minami",""]],
 	"5650833":[[27,"吹田市","五月が丘西","","Suita-shi","Satsukigaoka Nishi",""]],

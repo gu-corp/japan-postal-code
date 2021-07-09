@@ -4,7 +4,7 @@ zipdata({
 	"0760002":[[1,"富良野市","南扇山","","Furano-shi","Minamiogiyama",""]],
 	"0760003":[[1,"富良野市","布部石綿","","Furano-shi","Nunobe Ishiwata",""]],
 	"0760004":[[1,"富良野市","布部市街地","","Furano-shi","Nunobe Shigaichi",""]],
-	"0760005":[[1,"富良野市","布部一","","Furano-shi","Nunobeichi",""]],
+	"0760005":[[1,"富良野市","布部一","","Furano-shi","Nunobe Ichi",""]],
 	"0760006":[[1,"富良野市","西扇山","","Furano-shi","Nishiogiyama",""]],
 	"0760007":[[1,"富良野市","南町","","Furano-shi","Minamimachi",""]],
 	"0760008":[[1,"富良野市","扇町","","Furano-shi","Ogimachi",""]],

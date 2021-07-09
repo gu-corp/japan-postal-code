@@ -99,7 +99,7 @@ zipdata({
 	"0791282":[[1,"赤平市","平岸仲町","","Akabira-shi","Hiragishi Nakamachi",""]],
 	"0791283":[[1,"赤平市","平岸東町","","Akabira-shi","Hiragishi Higashimachi",""]],
 	"0791284":[[1,"赤平市","平岸南町","","Akabira-shi","Hiragishi Minamimachi",""]],
-	"0791285":[[1,"赤平市","平岸曙町","","Akabira-shi","Hiragishiakebonocho",""]],
+	"0791285":[[1,"赤平市","平岸曙町","","Akabira-shi","Hiragishi Akebonocho",""]],
 	"0791286":[[1,"赤平市","平岸西町","","Akabira-shi","Hiragishi Nishimachi",""]],
 	"0791287":[[1,"赤平市","平岸桂町","","Akabira-shi","Hiragishi Katsuracho",""]],
 	"0791371":[[1,"芦別市","上芦別町","","Ashibetsu-shi","Kamiashibetsucho",""]],

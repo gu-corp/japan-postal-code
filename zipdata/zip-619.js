@@ -34,6 +34,7 @@ zipdata({
 	"6190244":[[26,"相楽郡精華町","北稲八間","","Seika-cho, Soraku-gun","Kitainayazuma",""]],
 	"6190245":[[26,"相楽郡精華町","下狛","","Seika-cho, Soraku-gun","Shimokoma",""]],
 	"6190246":[[26,"相楽郡精華町","菱田","","Seika-cho, Soraku-gun","Hishida",""]],
+	"6190247":[[26,"相楽郡精華町","狛田","","Seika-cho, Soraku-gun","Komada",""]],
 	"6191101":[[26,"木津川市","加茂町銭司","","Kizugawa-shi","Kamocho Zezu",""]],
 	"6191102":[[26,"木津川市","加茂町井平尾","","Kizugawa-shi","Kamocho Ibirao",""]],
 	"6191103":[[26,"木津川市","加茂町岡崎","","Kizugawa-shi","Kamocho Okazaki",""]],

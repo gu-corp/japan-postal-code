@@ -57,6 +57,7 @@ zipdata({
 	"9630546":[[7,"郡山市","喜久田町早稲原","","Koriyama-shi","Kikutamachi Wasehara",""]],
 	"9630547":[[7,"郡山市","喜久田町卸","","Koriyama-shi","Kikutamachi Oroshi",""]],
 	"9630551":[[7,"郡山市","喜久田町","","Koriyama-shi","Kikutamachi",""]],
+	"9630552":[[7,"郡山市","東原","","Koriyama-shi","Higashihara",""]],
 	"9630661":[[7,"郡山市","舞木町","","Koriyama-shi","Mogimachi",""]],
 	"9630662":[[7,"郡山市","白岩町","","Koriyama-shi","Shiraiwamachi",""]],
 	"9630663":[[7,"郡山市","下白岩町","","Koriyama-shi","Shimoshiraiwamachi",""]],

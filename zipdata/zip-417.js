@@ -87,6 +87,7 @@ zipdata({
 	"4170853":[[22,"富士市","宇東川東町","","Fuji-shi","Utogawa Higashicho",""]],
 	"4170854":[[22,"富士市","宇東川西町","","Fuji-shi","Utogawa Nishicho",""]],
 	"4170855":[[22,"富士市","三ツ沢","","Fuji-shi","Mitsuzawa",""]],
+	"4170856":[[22,"富士市","さんどまき","","Fuji-shi","Sandomaki",""]],
 	"4170861":[[22,"富士市","広見東本町","","Fuji-shi","Hiromi Higashihoncho",""]],
 	"4170862":[[22,"富士市","石坂","","Fuji-shi","Ishizaka",""]],
 	"4170863":[[22,"富士市","広見西本町","","Fuji-shi","Hiromi Nishihoncho",""]],

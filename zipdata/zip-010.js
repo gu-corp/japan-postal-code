@@ -274,6 +274,7 @@ zipdata({
 	"0101417":[[5,"秋田市","四ツ小屋","","Akita-shi","Yotsugoya",""]],
 	"0101418":[[5,"秋田市","四ツ小屋小阿地","","Akita-shi","Yotsugoya Koaji",""]],
 	"0101419":[[5,"秋田市","御所野堤台","","Akita-shi","Goshonotsutsumidai",""]],
+	"0101420":[[5,"秋田市","大住南","","Akita-shi","Osumiminami",""]],
 	"0101421":[[5,"秋田市","仁井田本町","","Akita-shi","Niida Honcho",""]],
 	"0101422":[[5,"秋田市","仁井田目長田","","Akita-shi","Niida Menagata",""]],
 	"0101423":[[5,"秋田市","仁井田","","Akita-shi","Niida",""]],

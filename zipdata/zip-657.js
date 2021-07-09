@@ -36,7 +36,7 @@ zipdata({
 	"6570052":[[28,"神戸市灘区","神前町","","Nada-ku, Kobe-shi","Kamimaecho",""]],
 	"6570053":[[28,"神戸市灘区","六甲町","","Nada-ku, Kobe-shi","Rokkocho",""]],
 	"6570054":[[28,"神戸市灘区","稗原町","","Nada-ku, Kobe-shi","Hieharacho",""]],
-	"6570055":[[28,"神戸市灘区","上河原通","","Nada-ku, Kobe-shi","Kamikawaradori",""]],
+	"6570055":[[28,"神戸市灘区","上河原通","","Nada-ku, Kobe-shi","Kamigawaradori",""]],
 	"6570056":[[28,"神戸市灘区","千旦通","","Nada-ku, Kobe-shi","Sentandori",""]],
 	"6570057":[[28,"神戸市灘区","神ノ木通","","Nada-ku, Kobe-shi","Kaminokidori",""]],
 	"6570058":[[28,"神戸市灘区","将軍通","","Nada-ku, Kobe-shi","Shogundori",""]],

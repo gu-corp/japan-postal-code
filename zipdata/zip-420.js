@@ -136,7 +136,7 @@ zipdata({
 	"4200913":[[22,"静岡市葵区","瀬名川","","Aoi-ku, Shizuoka-shi","Senagawa",""]],
 	"4200914":[[22,"静岡市葵区","西瀬名町","","Aoi-ku, Shizuoka-shi","Nishisenacho",""]],
 	"4200915":[[22,"静岡市葵区","南瀬名町","","Aoi-ku, Shizuoka-shi","Minamisenacho",""]],
-	"4200916":[[22,"静岡市葵区","瀬名中央","","Aoi-ku, Shizuoka-shi","Sena Chuo",""]],
+	"4200916":[[22,"静岡市葵区","瀬名中央","","Aoi-ku, Shizuoka-shi","Senachuo",""]],
 	"4200921":[[22,"静岡市葵区","野丈","","Aoi-ku, Shizuoka-shi","Nodake",""]],
 	"4200922":[[22,"静岡市葵区","流通センター","","Aoi-ku, Shizuoka-shi","Ryutsusenta",""]],
 	"4200923":[[22,"静岡市葵区","川合","","Aoi-ku, Shizuoka-shi","Kawai",""]],

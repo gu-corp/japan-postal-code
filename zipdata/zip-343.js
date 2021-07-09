@@ -41,6 +41,7 @@ zipdata({
 	"3430104":[[11,"北葛飾郡松伏町","田島東","","Matsubushi-machi, Kitakatsushika-gun","Tajimahigashi",""]],
 	"3430105":[[11,"北葛飾郡松伏町","田島","","Matsubushi-machi, Kitakatsushika-gun","Tajima",""]],
 	"3430106":[[11,"北葛飾郡松伏町","大川戸","","Matsubushi-machi, Kitakatsushika-gun","Okawado",""]],
+	"3430107":[[11,"北葛飾郡松伏町","田島南","","Matsubushi-machi, Kitakatsushika-gun","Tajimaminami",""]],
 	"3430111":[[11,"北葛飾郡松伏町","松伏","","Matsubushi-machi, Kitakatsushika-gun","Matsubushi",""]],
 	"3430112":[[11,"北葛飾郡松伏町","松葉","","Matsubushi-machi, Kitakatsushika-gun","Matsuba",""]],
 	"3430113":[[11,"北葛飾郡松伏町","ゆめみ野","","Matsubushi-machi, Kitakatsushika-gun","Yumemino",""]],

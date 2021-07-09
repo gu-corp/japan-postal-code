@@ -44,7 +44,7 @@ zipdata({
 	"6530812":[[28,"神戸市長田区","長田町","","Nagata-ku, Kobe-shi","Nagatacho",""]],
 	"6530813":[[28,"神戸市長田区","宮川町","","Nagata-ku, Kobe-shi","Miyagawacho",""]],
 	"6530814":[[28,"神戸市長田区","池田広町","","Nagata-ku, Kobe-shi","Ikeda Hiromachi",""]],
-	"6530821":[[28,"神戸市長田区","池田谷町","","Nagata-ku, Kobe-shi","Ikedatanimachi",""]],
+	"6530821":[[28,"神戸市長田区","池田谷町","","Nagata-ku, Kobe-shi","Ikeda Tanimachi",""]],
 	"6530822":[[28,"神戸市長田区","池田寺町","","Nagata-ku, Kobe-shi","Ikeda Teramachi",""]],
 	"6530823":[[28,"神戸市長田区","池田経町","","Nagata-ku, Kobe-shi","Ikeda Kyomachi",""]],
 	"6530824":[[28,"神戸市長田区","池田上町","","Nagata-ku, Kobe-shi","Ikeda Uemachi",""]],

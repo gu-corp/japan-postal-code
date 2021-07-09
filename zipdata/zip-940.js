@@ -164,6 +164,7 @@ zipdata({
 	"9400806":[[15,"長岡市","麻生田町","","Nagaoka-shi","Asodamachi",""]],
 	"9400811":[[15,"長岡市","宮路町","","Nagaoka-shi","Miyajimachi",""]],
 	"9400812":[[15,"長岡市","乙吉町","","Nagaoka-shi","Otoyoshimachi",""]],
+	"9400813":[[15,"長岡市","川中","","Nagaoka-shi","Kawanaka",""]],
 	"9400814":[[15,"長岡市","成願寺町","","Nagaoka-shi","Joganjimachi",""]],
 	"9400816":[[15,"長岡市","東片貝町","","Nagaoka-shi","Higashikatakaimachi",""]],
 	"9400817":[[15,"長岡市","西片貝町","","Nagaoka-shi","Nishikatakaimachi",""]],

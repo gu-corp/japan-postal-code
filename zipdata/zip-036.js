@@ -405,7 +405,7 @@ zipdata({
 	"0368321":[[2,"弘前市","萢中","","Hirosaki-shi","Yachinaka",""]],
 	"0368323":[[2,"弘前市","浜の町東","","Hirosaki-shi","Hamanomachi Higashi",""]],
 	"0368324":[[2,"弘前市","浜の町西","","Hirosaki-shi","Hamanomachi Nishi",""]],
-	"0368325":[[2,"弘前市","浜の町北","","Hirosaki-shi","Hamanomachikita",""]],
+	"0368325":[[2,"弘前市","浜の町北","","Hirosaki-shi","Hamanomachi Kita",""]],
 	"0368326":[[2,"弘前市","藤野","","Hirosaki-shi","Fujino",""]],
 	"0368331":[[2,"弘前市","小人町","","Hirosaki-shi","Kobitocho",""]],
 	"0368332":[[2,"弘前市","亀甲町","","Hirosaki-shi","Kamenokomachi",""]],

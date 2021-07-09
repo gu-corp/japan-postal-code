@@ -5,7 +5,7 @@ zipdata({
 	"5610804":[[27,"豊中市","曽根南町","","Toyonaka-shi","Sone Minamimachi",""]],
 	"5610805":[[27,"豊中市","原田南","","Toyonaka-shi","Harada Minami",""]],
 	"5610806":[[27,"豊中市","原田西町","","Toyonaka-shi","Harada Nishimachi",""]],
-	"5610807":[[27,"豊中市","原田中","","Toyonaka-shi","Haradanaka",""]],
+	"5610807":[[27,"豊中市","原田中","","Toyonaka-shi","Harada Naka",""]],
 	"5610808":[[27,"豊中市","原田元町","","Toyonaka-shi","Harada Motomachi",""]],
 	"5610811":[[27,"豊中市","若竹町","","Toyonaka-shi","Wakatakecho",""]],
 	"5610812":[[27,"豊中市","北条町","","Toyonaka-shi","Kitajocho",""]],
