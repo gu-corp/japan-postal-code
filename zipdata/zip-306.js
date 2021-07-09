@@ -95,6 +95,7 @@ zipdata({
 	"3060305":[[8,"猿島郡五霞町","冬木","","Goka-machi, Sashima-gun","Fuyugi",""]],
 	"3060306":[[8,"猿島郡五霞町","原宿台","","Goka-machi, Sashima-gun","Harajukudai",""]],
 	"3060307":[[8,"猿島郡五霞町","小福田","","Goka-machi, Sashima-gun","Kofukuda",""]],
+	"3060308":[[8,"猿島郡五霞町","ごかみらい","","Goka-machi, Sashima-gun","Gokamirai",""]],
 	"3060311":[[8,"猿島郡五霞町","大福田","","Goka-machi, Sashima-gun","Ofukuda",""]],
 	"3060312":[[8,"猿島郡五霞町","新幸谷","","Goka-machi, Sashima-gun","Shinkoya",""]],
 	"3060313":[[8,"猿島郡五霞町","元栗橋","","Goka-machi, Sashima-gun","Motokurihashi",""]],

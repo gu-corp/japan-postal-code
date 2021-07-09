@@ -135,7 +135,7 @@ zipdata({
 	"9240876":[[17,"白山市","鍛治町","","Hakusan-shi","Kajimachi",""]],
 	"9240877":[[17,"白山市","中町","","Hakusan-shi","Nakamachi",""]],
 	"9240878":[[17,"白山市","末広","","Hakusan-shi","Suehiro",""]],
-	"9240881":[[17,"白山市","八ツ矢新町","","Hakusan-shi","Yatsuyashimmachi",""]],
+	"9240881":[[17,"白山市","八ツ矢新町","","Hakusan-shi","Yatsuyashincho",""]],
 	"9240882":[[17,"白山市","八ツ矢町","","Hakusan-shi","Yatsuyamachi",""]],
 	"9240883":[[17,"白山市","東一番町","","Hakusan-shi","Higashiichibancho",""]],
 	"9240884":[[17,"白山市","東新町","","Hakusan-shi","Higashishimmachi",""]],

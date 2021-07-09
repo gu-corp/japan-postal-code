@@ -4,6 +4,7 @@ zipdata({
 	"0260002":[[3,"釜石市","大平町","","Kamaishi-shi","Odairacho",""]],
 	"0260003":[[3,"釜石市","嬉石町","","Kamaishi-shi","Ureishicho",""]],
 	"0260004":[[3,"釜石市","松原町","","Kamaishi-shi","Matsubaracho",""]],
+	"0260005":[[3,"釜石市","平田町","","Kamaishi-shi","Heitacho",""]],
 	"0260011":[[3,"釜石市","港町","","Kamaishi-shi","Minatomachi",""]],
 	"0260012":[[3,"釜石市","魚河岸","","Kamaishi-shi","Uogashi",""]],
 	"0260013":[[3,"釜石市","浜町","","Kamaishi-shi","Hamacho",""]],

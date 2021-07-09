@@ -185,7 +185,7 @@ zipdata({
 	"6008188":[[26,"京都市下京区","和泉町","","Shimogyo-ku, Kyoto-shi","Izumicho",""]],
 	"6008189":[[26,"京都市下京区","福島町","","Shimogyo-ku, Kyoto-shi","Fukushimacho",""]],
 	"6008190":[[26,"京都市下京区","東玉水町","","Shimogyo-ku, Kyoto-shi","Higashitamamizucho",""]],
-	"6008191":[[26,"京都市下京区","堺町","","Shimogyo-ku, Kyoto-shi","Sakaimachi",""]],
+	"6008191":[[26,"京都市下京区","堺町","","Shimogyo-ku, Kyoto-shi","Sakaicho",""]],
 	"6008192":[[26,"京都市下京区","富屋町","","Shimogyo-ku, Kyoto-shi","Tomiyacho",""]],
 	"6008193":[[26,"京都市下京区","骨屋町","","Shimogyo-ku, Kyoto-shi","Honeyacho",""]],
 	"6008194":[[26,"京都市下京区","栄町","","Shimogyo-ku, Kyoto-shi","Sakaecho",""]],

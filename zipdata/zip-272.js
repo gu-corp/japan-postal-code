@@ -71,7 +71,7 @@ zipdata({
 	"2720825":[[12,"市川市","須和田","","Ichikawa-shi","Suwada",""]],
 	"2720826":[[12,"市川市","真間","","Ichikawa-shi","Mama",""]],
 	"2720827":[[12,"市川市","国府台","","Ichikawa-shi","Konodai",""]],
-	"2720831":[[12,"市川市","稲越町","","Ichikawa-shi","Inagoshimachi",""]],
+	"2720831":[[12,"市川市","稲越","","Ichikawa-shi","Inagoshi",""]],
 	"2720832":[[12,"市川市","曽谷","","Ichikawa-shi","Soya",""]],
 	"2720833":[[12,"市川市","東国分","","Ichikawa-shi","Higashikokubun",""]],
 	"2720834":[[12,"市川市","国分","","Ichikawa-shi","Kokubun",""]],

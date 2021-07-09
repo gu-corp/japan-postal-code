@@ -152,7 +152,7 @@ zipdata({
 	"9271224":[[17,"珠洲市","宝立町南黒丸","","Suzu-shi","Horyumachi Minamikuromaru",""]],
 	"9271225":[[17,"珠洲市","宝立町宗玄","","Suzu-shi","Horyumachi Sogen",""]],
 	"9271226":[[17,"珠洲市","宝立町馬渡","","Suzu-shi","Horyumachi Mawatari",""]],
-	"9271227":[[17,"珠洲市","宝立町大町泥木","","Suzu-shi","Horyumachi Omachidoronoki",""],[17,"珠洲市","宝立町二艘丹","","Suzu-shi","Horyumachinisofune",""]],
+	"9271227":[[17,"珠洲市","宝立町大町泥木","","Suzu-shi","Horyumachi Omachidoronoki",""],[17,"珠洲市","宝立町二艘丹","","Suzu-shi","Horyumachi Nisofune",""]],
 	"9271228":[[17,"珠洲市","宝立町柏原","","Suzu-shi","Horyumachi Kashihara",""],[17,"珠洲市","宝立町黒峰","","Suzu-shi","Horyumachi Kuromine",""]],
 	"9271231":[[17,"珠洲市","若山町鈴内","","Suzu-shi","Wakayamamachi Suzunai",""]],
 	"9271232":[[17,"珠洲市","若山町広栗","","Suzu-shi","Wakayamamachi Hiroguri",""]],

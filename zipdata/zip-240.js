@@ -35,6 +35,7 @@ zipdata({
 	"2400051":[[14,"横浜市保土ケ谷区","上菅田町","","Hodogaya-ku, Yokohama-shi","Kamisugedacho",""]],
 	"2400052":[[14,"横浜市保土ケ谷区","西谷町","","Hodogaya-ku, Yokohama-shi","Nishiyamachi",""]],
 	"2400053":[[14,"横浜市保土ケ谷区","新井町","","Hodogaya-ku, Yokohama-shi","Araicho",""]],
+	"2400054":[[14,"横浜市保土ケ谷区","西谷","","Hodogaya-ku, Yokohama-shi","Nishiya",""]],
 	"2400061":[[14,"横浜市保土ケ谷区","峰沢町","","Hodogaya-ku, Yokohama-shi","Minezawacho",""]],
 	"2400062":[[14,"横浜市保土ケ谷区","岡沢町","","Hodogaya-ku, Yokohama-shi","Okazawacho",""]],
 	"2400063":[[14,"横浜市保土ケ谷区","鎌谷町","","Hodogaya-ku, Yokohama-shi","Kamayacho",""]],

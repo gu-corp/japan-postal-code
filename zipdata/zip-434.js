@@ -14,6 +14,7 @@ zipdata({
 	"4340015":[[22,"浜松市浜北区","於呂","","Hamakita-ku, Hamamatsu-shi","Oro",""]],
 	"4340016":[[22,"浜松市浜北区","根堅","","Hamakita-ku, Hamamatsu-shi","Negata",""]],
 	"4340017":[[22,"浜松市浜北区","豊保","","Hamakita-ku, Hamamatsu-shi","Toyoyasu",""]],
+	"4340018":[[22,"浜松市浜北区","西中瀬","","Hamakita-ku, Hamamatsu-shi","Nishinakaze",""]],
 	"4340021":[[22,"浜松市浜北区","八幡","","Hamakita-ku, Hamamatsu-shi","Yawata",""]],
 	"4340022":[[22,"浜松市浜北区","新堀","","Hamakita-ku, Hamamatsu-shi","Niibori",""]],
 	"4340023":[[22,"浜松市浜北区","高薗","","Hamakita-ku, Hamamatsu-shi","Takasono",""]],

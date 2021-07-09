@@ -49,7 +49,7 @@ zipdata({
 	"2100835":[[14,"川崎市川崎区","追分町","","Kawasaki-ku, Kawasaki-shi","Oiwakecho",""]],
 	"2100836":[[14,"川崎市川崎区","大島上町","","Kawasaki-ku, Kawasaki-shi","Oshimakamicho",""]],
 	"2100837":[[14,"川崎市川崎区","渡田","","Kawasaki-ku, Kawasaki-shi","Watarida",""]],
-	"2100838":[[14,"川崎市川崎区","境町","","Kawasaki-ku, Kawasaki-shi","Sakaimachi",""]],
+	"2100838":[[14,"川崎市川崎区","境町","","Kawasaki-ku, Kawasaki-shi","Sakaicho",""]],
 	"2100841":[[14,"川崎市川崎区","渡田向町","","Kawasaki-ku, Kawasaki-shi","Watarida Mukaicho",""]],
 	"2100842":[[14,"川崎市川崎区","渡田東町","","Kawasaki-ku, Kawasaki-shi","Watarida Higashicho",""]],
 	"2100843":[[14,"川崎市川崎区","小田栄","","Kawasaki-ku, Kawasaki-shi","Odasakae",""]],

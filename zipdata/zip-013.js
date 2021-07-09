@@ -41,6 +41,7 @@ zipdata({
 	"0130046":[[5,"横手市","神明町","","Yokote-shi","Shimmeicho",""]],
 	"0130047":[[5,"横手市","松原町","","Yokote-shi","Matsubaramachi",""]],
 	"0130048":[[5,"横手市","安田原町","","Yokote-shi","Yasudaharamachi",""]],
+	"0130049":[[5,"横手市","駅西","","Yokote-shi","Ekinishi",""]],
 	"0130051":[[5,"横手市","大屋新町","","Yokote-shi","Oya Shimmachi",""]],
 	"0130052":[[5,"横手市","大屋寺内","","Yokote-shi","Oya Terauchi",""]],
 	"0130053":[[5,"横手市","外目","","Yokote-shi","Sotonome",""]],

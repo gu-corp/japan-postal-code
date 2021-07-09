@@ -1,6 +1,5 @@
 zipdata({
 	"2160000":[[14,"川崎市宮前区","","","Miyamae-ku, Kawasaki-shi","",""]],
-	"2160001":[[14,"川崎市宮前区","野川","","Miyamae-ku, Kawasaki-shi","Nogawa",""]],
 	"2160002":[[14,"川崎市宮前区","東有馬","","Miyamae-ku, Kawasaki-shi","Higashiarima",""]],
 	"2160003":[[14,"川崎市宮前区","有馬","","Miyamae-ku, Kawasaki-shi","Arima",""]],
 	"2160004":[[14,"川崎市宮前区","鷺沼","","Miyamae-ku, Kawasaki-shi","Saginuma",""]],
@@ -23,5 +22,8 @@ zipdata({
 	"2160033":[[14,"川崎市宮前区","宮崎","","Miyamae-ku, Kawasaki-shi","Miyazaki",""]],
 	"2160034":[[14,"川崎市宮前区","梶ケ谷","","Miyamae-ku, Kawasaki-shi","Kajigaya",""]],
 	"2160035":[[14,"川崎市宮前区","馬絹","","Miyamae-ku, Kawasaki-shi","Maginu",""]],
-	"2160041":[[14,"川崎市宮前区","野川本町","","Miyamae-ku, Kawasaki-shi","Nogawahoncho",""]]
+	"2160041":[[14,"川崎市宮前区","野川本町","","Miyamae-ku, Kawasaki-shi","Nogawahoncho",""]],
+	"2160042":[[14,"川崎市宮前区","南野川","","Miyamae-ku, Kawasaki-shi","Minaminogawa",""]],
+	"2160043":[[14,"川崎市宮前区","野川台","","Miyamae-ku, Kawasaki-shi","Nogawadai",""]],
+	"2160044":[[14,"川崎市宮前区","西野川","","Miyamae-ku, Kawasaki-shi","Nishinogawa",""]]
 })

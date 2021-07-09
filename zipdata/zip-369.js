@@ -115,7 +115,6 @@ zipdata({
 	"3691503":[[11,"秩父市","下吉田","","Chichibu-shi","Shimoyoshida",""]],
 	"3691504":[[11,"秩父市","吉田石間","","Chichibu-shi","Yoshida Isama",""]],
 	"3691505":[[11,"秩父市","上吉田","","Chichibu-shi","Kamiyoshida",""]],
-	"3691506":[[11,"秩父市","吉田太田部","","Chichibu-shi","Yoshida Otabu",""]],
 	"3691601":[[11,"秩父郡皆野町","金沢","","Minano-machi, Chichibu-gun","Kanezawa",""]],
 	"3691621":[[11,"秩父郡皆野町","金崎","","Minano-machi, Chichibu-gun","Kanasaki",""]],
 	"3691622":[[11,"秩父郡皆野町","国神","","Minano-machi, Chichibu-gun","Kunikami",""]],

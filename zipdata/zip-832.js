@@ -68,7 +68,7 @@ zipdata({
 	"8320083":[[40,"柳川市","南浜武","","Yanagawa-shi","Minamihamatake",""]],
 	"8320084":[[40,"柳川市","昭南町","","Yanagawa-shi","Shonammachi",""]],
 	"8320085":[[40,"柳川市","吉原","","Yanagawa-shi","Yoshihara",""]],
-	"8320086":[[40,"柳川市","久々原","","Yanagawa-shi","Kukuhara",""]],
+	"8320086":[[40,"柳川市","久々原","","Yanagawa-shi","Kuguhara",""]],
 	"8320087":[[40,"柳川市","七ツ家","","Yanagawa-shi","Nanatsue",""]],
 	"8320088":[[40,"柳川市","間","","Yanagawa-shi","Hasama",""]],
 	"8320089":[[40,"柳川市","田脇","","Yanagawa-shi","Tawaki",""]],

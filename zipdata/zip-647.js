@@ -8,6 +8,7 @@ zipdata({
 	"6470006":[[30,"新宮市","薬師町","","Shingu-shi","Yakushimachi",""]],
 	"6470007":[[30,"新宮市","別当屋敷町","","Shingu-shi","Bettoyashikicho",""]],
 	"6470008":[[30,"新宮市","馬町","","Shingu-shi","Umamachi",""]],
+	"6470010":[[30,"新宮市","丹鶴","","Shingu-shi","Tankaku",""]],
 	"6470011":[[30,"新宮市","下本町","","Shingu-shi","Shimohommachi",""]],
 	"6470012":[[30,"新宮市","伊佐田町","","Shingu-shi","Isadacho",""]],
 	"6470013":[[30,"新宮市","春日","","Shingu-shi","Kasuga",""]],

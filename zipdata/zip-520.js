@@ -498,6 +498,7 @@ zipdata({
 	"5203233":[[25,"湖南市","柑子袋","","Konan-shi","Kojibukuro",""]],
 	"5203234":[[25,"湖南市","中央","","Konan-shi","Chuo",""]],
 	"5203235":[[25,"湖南市","平松北","","Konan-shi","Hiramatsukita",""]],
+	"5203236":[[25,"湖南市","柑子袋東","","Konan-shi","Kojibukurohigashi",""]],
 	"5203237":[[25,"湖南市","柑子袋西","","Konan-shi","Kojibukuronishi",""]],
 	"5203241":[[25,"湖南市","北山台","","Konan-shi","Kitayamadai",""]],
 	"5203242":[[25,"湖南市","菩提寺","","Konan-shi","Bodaiji",""]],

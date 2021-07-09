@@ -111,7 +111,7 @@ zipdata({
 	"9260815":[[17,"七尾市","栄町","","Nanao-shi","Sakaemachi",""]],
 	"9260816":[[17,"七尾市","岩屋町","","Nanao-shi","Iwayamachi",""],[17,"七尾市","藤橋町","","Nanao-shi","Fujihashimachi",""]],
 	"9260817":[[17,"七尾市","西藤橋町","","Nanao-shi","Nishifujihashimachi",""]],
-	"9260818":[[17,"七尾市","馬出町","","Nanao-shi","Madashimachi",""]],
+	"9260818":[[17,"七尾市","馬出町","","Nanao-shi","Umadashimachi",""]],
 	"9260821":[[17,"七尾市","国分町","","Nanao-shi","Kokubumachi",""]],
 	"9260822":[[17,"七尾市","細口町","","Nanao-shi","Hosoguchimachi",""]],
 	"9260823":[[17,"七尾市","青葉台町","","Nanao-shi","Aobadaimachi",""]],

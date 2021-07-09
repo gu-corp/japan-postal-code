@@ -240,6 +240,8 @@ zipdata({
 	"9792706":[[7,"相馬郡新地町","杉目","","Shinchi-machi, Soma-gun","Suginome",""]],
 	"9792707":[[7,"相馬郡新地町","真弓","","Shinchi-machi, Soma-gun","Mayumi",""]],
 	"9792708":[[7,"相馬郡新地町","福田","","Shinchi-machi, Soma-gun","Fukuda",""]],
+	"9792709":[[7,"相馬郡新地町","駅前","","Shinchi-machi, Soma-gun","Ekimae",""]],
+	"9792711":[[7,"相馬郡新地町","中島","","Shinchi-machi, Soma-gun","Nakashima",""]],
 	"9793111":[[7,"いわき市","小川町柴原","","Iwaki-shi","Ogawamachi Shibahara",""]],
 	"9793112":[[7,"いわき市","小川町上平","","Iwaki-shi","Ogawamachi Uwadaira",""]],
 	"9793113":[[7,"いわき市","小川町三島","","Iwaki-shi","Ogawamachi Mishima",""]],

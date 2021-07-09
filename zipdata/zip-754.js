@@ -26,6 +26,7 @@ zipdata({
 	"7540032":[[35,"山口市","小郡みらい町","","Yamaguchi-shi","Ogori Miraimachi",""]],
 	"7540033":[[35,"山口市","小郡光が丘","","Yamaguchi-shi","Ogori Hikarigaoka",""]],
 	"7540034":[[35,"山口市","小郡かぜの丘","","Yamaguchi-shi","Ogori Kazenoka",""]],
+	"7540041":[[35,"山口市","小郡令和","","Yamaguchi-shi","Ogori Reiwa",""]],
 	"7540121":[[35,"美祢市","美東町長田","","Mine-shi","Mitocho Nagata",""]],
 	"7540122":[[35,"美祢市","美東町真名","","Mine-shi","Mitocho Mana",""]],
 	"7540123":[[35,"美祢市","美東町小野","","Mine-shi","Mitocho Ono",""]],

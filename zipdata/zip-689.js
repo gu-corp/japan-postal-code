@@ -2,7 +2,7 @@ zipdata({
 	"6890101":[[31,"鳥取市","福部町岩戸","","Tottori-shi","Fukubecho Iwado",""]],
 	"6890102":[[31,"鳥取市","福部町細川","","Tottori-shi","Fukubecho Hosogawa",""]],
 	"6890103":[[31,"鳥取市","福部町高江","","Tottori-shi","Fukubecho Takae",""]],
-	"6890104":[[31,"鳥取市","福部町箭渓","","Tottori-shi","Fukubecho Yadani",""]],
+	"6890104":[[31,"鳥取市","福部町箭溪","","Tottori-shi","Fukubecho Yadani",""]],
 	"6890105":[[31,"鳥取市","福部町湯山","","Tottori-shi","Fukubecho Yuyama",""]],
 	"6890106":[[31,"鳥取市","福部町海士","","Tottori-shi","Fukubecho Amo",""]],
 	"6890111":[[31,"鳥取市","福部町栗谷","","Tottori-shi","Fukubecho Kuritani",""]],

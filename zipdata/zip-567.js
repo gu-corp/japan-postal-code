@@ -64,6 +64,8 @@ zipdata({
 	"5670074":[[27,"茨木市","新郡山","","Ibaraki-shi","Shinkoriyama",""]],
 	"5670075":[[27,"茨木市","道祖本","","Ibaraki-shi","Sainomoto",""]],
 	"5670076":[[27,"茨木市","井口台","","Ibaraki-shi","Iguchidai",""]],
+	"5670082":[[27,"茨木市","彩都はなだ","","Ibaraki-shi","Saitohanada",""]],
+	"5670083":[[27,"茨木市","彩都もえぎ","","Ibaraki-shi","Saitomoegi",""]],
 	"5670084":[[27,"茨木市","彩都あかね","","Ibaraki-shi","Saitoakane",""]],
 	"5670085":[[27,"茨木市","彩都あさぎ","","Ibaraki-shi","Saitoasagi",""]],
 	"5670086":[[27,"茨木市","彩都やまぶき","","Ibaraki-shi","Saitoyamabuki",""]],

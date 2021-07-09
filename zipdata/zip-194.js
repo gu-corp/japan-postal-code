@@ -21,6 +21,7 @@ zipdata({
 	"1940036":[[13,"町田市","木曽東","","Machida-shi","Kisohigashi",""]],
 	"1940037":[[13,"町田市","木曽西","","Machida-shi","Kisonishi",""]],
 	"1940038":[[13,"町田市","根岸","","Machida-shi","Negishi",""]],
+	"1940039":[[13,"町田市","藤の台","","Machida-shi","Fujinodai",""]],
 	"1940041":[[13,"町田市","玉川学園","","Machida-shi","Tamagawagakuen",""]],
 	"1940042":[[13,"町田市","東玉川学園","","Machida-shi","Higashitamagawagakuen",""]],
 	"1940043":[[13,"町田市","成瀬台","","Machida-shi","Narusedai",""]],

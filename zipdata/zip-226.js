@@ -6,7 +6,6 @@ zipdata({
 	"2260004":[[14,"横浜市緑区","鴨居町","","Midori-ku, Yokohama-shi","Kamoicho",""]],
 	"2260005":[[14,"横浜市緑区","竹山","","Midori-ku, Yokohama-shi","Takeyama",""]],
 	"2260006":[[14,"横浜市緑区","白山","","Midori-ku, Yokohama-shi","Hakusan",""]],
-	"2260011":[[14,"横浜市緑区","中山町","","Midori-ku, Yokohama-shi","Nakayamacho",""]],
 	"2260012":[[14,"横浜市緑区","上山","","Midori-ku, Yokohama-shi","Kamiyama",""]],
 	"2260013":[[14,"横浜市緑区","寺山町","","Midori-ku, Yokohama-shi","Terayamacho",""]],
 	"2260014":[[14,"横浜市緑区","台村町","","Midori-ku, Yokohama-shi","Daimuracho",""]],

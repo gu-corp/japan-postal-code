@@ -262,6 +262,7 @@ zipdata({
 	"6038455":[[26,"京都市北区","衣笠東尊上院町","","Kita-ku, Kyoto-shi","Kinugasa Higashisonjoincho",""]],
 	"6038456":[[26,"京都市北区","衣笠西尊上院町","","Kita-ku, Kyoto-shi","Kinugasa Nishisonjoincho",""]],
 	"6038457":[[26,"京都市北区","大北山不動山町","","Kita-ku, Kyoto-shi","Okitayama Fudosancho",""]],
+	"6038458":[[26,"京都市北区","大北山鷲峯町","","Kita-ku, Kyoto-shi","Okitayama Washiminecho",""]],
 	"6038461":[[26,"京都市北区","大宮玄琢北東町","","Kita-ku, Kyoto-shi","Omiya Gentakukitahigashicho",""]],
 	"6038462":[[26,"京都市北区","大宮玄琢北町","","Kita-ku, Kyoto-shi","Omiya Gentakukitamachi",""]],
 	"6038463":[[26,"京都市北区","大宮玄琢南町","","Kita-ku, Kyoto-shi","Omiya Gentakuminamimachi",""]],

@@ -37,7 +37,7 @@ zipdata({
 	"9718168":[[7,"いわき市","小名浜君ケ塚町","","Iwaki-shi","Onahama Kimigatsukacho",""]],
 	"9718169":[[7,"いわき市","小名浜南君ケ塚町","","Iwaki-shi","Onahama Minamikimigatsukacho",""]],
 	"9718171":[[7,"いわき市","泉ケ丘","","Iwaki-shi","Izumigaoka",""]],
-	"9718172":[[7,"いわき市","泉玉露","","Iwaki-shi","Izumi Tamatsuyu",""]],
+	"9718172":[[7,"いわき市","泉玉露","","Iwaki-shi","Izumitamatsuyu",""]],
 	"9718181":[[7,"いわき市","泉町本谷","","Iwaki-shi","Izumimachi Honya",""]],
 	"9718182":[[7,"いわき市","泉町滝尻","","Iwaki-shi","Izumimachi Takijiri",""]],
 	"9718183":[[7,"いわき市","泉町下川","","Iwaki-shi","Izumimachi Shimogawa",""]],
@@ -45,5 +45,5 @@ zipdata({
 	"9718185":[[7,"いわき市","泉町","","Iwaki-shi","Izumimachi",""]],
 	"9718186":[[7,"いわき市","泉町玉露","","Iwaki-shi","Izumimachi Tamatsuyu",""]],
 	"9718187":[[7,"いわき市","葉山","","Iwaki-shi","Hayama",""]],
-	"9718188":[[7,"いわき市","泉もえぎ台","","Iwaki-shi","Izumi Moegidai",""]]
+	"9718188":[[7,"いわき市","泉もえぎ台","","Iwaki-shi","Izumimoegidai",""]]
 })

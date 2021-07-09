@@ -9,6 +9,7 @@ zipdata({
 	"5050007":[[21,"美濃加茂市","蜂屋町下蜂屋","","Minokamo-shi","Hachiyacho Shimohachiya",""]],
 	"5050008":[[21,"美濃加茂市","伊深町","","Minokamo-shi","Ibukacho",""]],
 	"5050009":[[21,"美濃加茂市","蜂屋町矢田","","Minokamo-shi","Hachiyacho Yata",""]],
+	"5050010":[[21,"美濃加茂市","健康のまち","","Minokamo-shi","Kenkonomachi",""]],
 	"5050011":[[21,"美濃加茂市","下米田町東栃井","","Minokamo-shi","Shimoyonedacho Higashitochii",""]],
 	"5050012":[[21,"美濃加茂市","下米田町山本","","Minokamo-shi","Shimoyonedacho Yamamoto",""]],
 	"5050013":[[21,"美濃加茂市","下米田町信友","","Minokamo-shi","Shimoyonedacho Nobutomo",""]],

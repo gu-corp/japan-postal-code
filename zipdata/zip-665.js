@@ -93,7 +93,7 @@ zipdata({
 	"6650852":[[28,"宝塚市","売布","","Takarazuka-shi","Mefu",""]],
 	"6650853":[[28,"宝塚市","売布ガ丘","","Takarazuka-shi","Mefugaoka",""]],
 	"6650854":[[28,"宝塚市","売布山手町","","Takarazuka-shi","Mefu Yamatecho",""]],
-	"6650855":[[28,"宝塚市","売布きよしガ丘","","Takarazuka-shi","Mefukiyoshigaoka",""]],
+	"6650855":[[28,"宝塚市","売布きよしガ丘","","Takarazuka-shi","Mefu Kiyoshigaoka",""]],
 	"6650856":[[28,"宝塚市","売布自由ガ丘","","Takarazuka-shi","Mefu Jiyugaoka",""]],
 	"6650861":[[28,"宝塚市","中山寺","","Takarazuka-shi","Nakayamadera",""]],
 	"6650862":[[28,"宝塚市","今里町","","Takarazuka-shi","Imazatocho",""]],

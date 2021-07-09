@@ -123,6 +123,7 @@ zipdata({
 	"8000304":[[40,"京都郡苅田町","鳥越町","","Kanda-machi, Miyako-gun","Torigoecho",""]],
 	"8000305":[[40,"京都郡苅田町","空港南町","","Kanda-machi, Miyako-gun","Kukominamimachi",""]],
 	"8000306":[[40,"北九州市小倉南区","空港北町","","Kokuraminami-ku, Kitakyushu-shi","Kukokitamachi",""]],
+	"8000307":[[40,"京都郡苅田町","新松山","","Kanda-machi, Miyako-gun","Shimmatsuyama",""]],
 	"8000311":[[40,"京都郡苅田町","長浜町","","Kanda-machi, Miyako-gun","Nagahamacho",""]],
 	"8000312":[[40,"京都郡苅田町","殿川町","","Kanda-machi, Miyako-gun","Tonogawacho",""]],
 	"8000313":[[40,"京都郡苅田町","磯浜町","","Kanda-machi, Miyako-gun","Isohamacho",""]],

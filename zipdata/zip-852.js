@@ -71,7 +71,7 @@ zipdata({
 	"8528131":[[42,"長崎市","文教町","","Nagasaki-shi","Bunkyomachi",""]],
 	"8528132":[[42,"長崎市","扇町","","Nagasaki-shi","Ogimachi",""]],
 	"8528133":[[42,"長崎市","本原町","","Nagasaki-shi","Motoharamachi",""]],
-	"8528134":[[42,"長崎市","大橋町","","Nagasaki-shi","Ohashimachi",""]],
+	"8528134":[[42,"長崎市","大橋町","","Nagasaki-shi","Obashimachi",""]],
 	"8528135":[[42,"長崎市","千歳町","","Nagasaki-shi","Chitosemachi",""]],
 	"8528136":[[42,"長崎市","家野町","","Nagasaki-shi","Ienomachi",""]],
 	"8528137":[[42,"長崎市","若葉町","","Nagasaki-shi","Wakabamachi",""]],

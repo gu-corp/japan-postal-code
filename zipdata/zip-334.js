@@ -10,7 +10,7 @@ zipdata({
 	"3340014":[[11,"川口市","前田","","Kawaguchi-shi","Maeta",""]],
 	"3340015":[[11,"川口市","鳩ヶ谷緑町","","Kawaguchi-shi","Hatogayamidoricho",""]],
 	"3340051":[[11,"川口市","安行藤八","","Kawaguchi-shi","Angyo Tohachi",""]],
-	"3340052":[[11,"川口市","安行出羽","","Kawaguchi-shi","Angyodewa",""]],
+	"3340052":[[11,"川口市","安行出羽","","Kawaguchi-shi","Angyo Dewa",""]],
 	"3340053":[[11,"川口市","安行吉蔵","","Kawaguchi-shi","Angyo Kichizo",""]],
 	"3340054":[[11,"川口市","安行北谷","","Kawaguchi-shi","Angyo Kitaya",""]],
 	"3340055":[[11,"川口市","安行小山","","Kawaguchi-shi","Angyo Koyama",""]],

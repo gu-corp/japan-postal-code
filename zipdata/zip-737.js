@@ -161,7 +161,7 @@ zipdata({
 	"7370883":[[34,"呉市","天応西条","","Kure-shi","Tenno Nishijo",""]],
 	"7370884":[[34,"呉市","天応伝十原町","","Kure-shi","Tenno Denjubaracho",""]],
 	"7370885":[[34,"呉市","天応福浦町","","Kure-shi","Tenno Fukuracho",""]],
-	"7370901":[[34,"呉市","焼山ひばりケ丘町","","Kure-shi","Yakeyamahibarigaokacho",""]],
+	"7370901":[[34,"呉市","焼山ひばりケ丘町","","Kure-shi","Yakeyama Hibarigaokacho",""]],
 	"7370902":[[34,"呉市","焼山此原町","","Kure-shi","Yakeyama Konoharacho",""]],
 	"7370903":[[34,"呉市","焼山西","","Kure-shi","Yakeyama Nishi",""]],
 	"7370904":[[34,"呉市","焼山","","Kure-shi","Yakeyama ",""]],

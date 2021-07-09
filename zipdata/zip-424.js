@@ -173,6 +173,7 @@ zipdata({
 	"4240905":[[22,"静岡市清水区","駒越西","","Shimizu-ku, Shizuoka-shi","Komagoenishi",""]],
 	"4240906":[[22,"静岡市清水区","駒越北町","","Shimizu-ku, Shizuoka-shi","Komagoekitamachi",""]],
 	"4240907":[[22,"静岡市清水区","駒越東町","","Shimizu-ku, Shizuoka-shi","Komagoehigashicho",""]],
+	"4240908":[[22,"静岡市清水区","三保松原町","","Shimizu-ku, Shizuoka-shi","Mihomatsubaracho",""]],
 	"4240911":[[22,"静岡市清水区","宮加三","","Shimizu-ku, Shizuoka-shi","Miyakami",""]],
 	"4240912":[[22,"静岡市清水区","殿沢","","Shimizu-ku, Shizuoka-shi","Tonosawa",""]],
 	"4240913":[[22,"静岡市清水区","迎山町","","Shimizu-ku, Shizuoka-shi","Mukaeyamacho",""]],

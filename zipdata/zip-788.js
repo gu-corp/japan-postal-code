@@ -62,7 +62,7 @@ zipdata({
 	"7880302":[[39,"幡多郡大月町","弘見","","Otsuki-cho, Hata-gun","Hiromi",""]],
 	"7880311":[[39,"幡多郡大月町","鉾土","","Otsuki-cho, Hata-gun","Hokotsuchi",""]],
 	"7880312":[[39,"幡多郡大月町","清王","","Otsuki-cho, Hata-gun","Seio",""]],
-	"7880313":[[39,"幡多郡大月町","周防形","","Otsuki-cho, Hata-gun","Sougata",""]],
+	"7880313":[[39,"幡多郡大月町","周防形","","Otsuki-cho, Hata-gun","Suogata",""]],
 	"7880314":[[39,"幡多郡大月町","頭集","","Otsuki-cho, Hata-gun","Kashiratsudoi",""]],
 	"7880315":[[39,"幡多郡大月町","古満目","","Otsuki-cho, Hata-gun","Komame",""]],
 	"7880321":[[39,"幡多郡大月町","春遠","","Otsuki-cho, Hata-gun","Harudo",""]],

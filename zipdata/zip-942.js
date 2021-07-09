@@ -130,6 +130,7 @@ zipdata({
 	"9420223":[[15,"上越市","頸城区森本","","Joetsu-shi","Kubikiku Morimoto",""]],
 	"9420224":[[15,"上越市","頸城区仁野分","","Joetsu-shi","Kubikiku Ninobu",""]],
 	"9420225":[[15,"上越市","頸城区天ケ崎","","Joetsu-shi","Kubikiku Amagasaki",""]],
+	"9420226":[[15,"上越市","頸城区塔ケ崎","","Joetsu-shi","Kubikiku Togasaki",""]],
 	"9420231":[[15,"上越市","下吉野","","Joetsu-shi","Shimoyoshino",""]],
 	"9420232":[[15,"上越市","福岡新田","","Joetsu-shi","Fukuokashinden",""]],
 	"9420233":[[15,"上越市","岡崎新田","","Joetsu-shi","Okazakishinden",""]],
