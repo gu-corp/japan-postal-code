@@ -173,7 +173,7 @@ zipdata({
 	"3994116":[[20,"駒ヶ根市","上穂北","","Komagane-shi","Uwabu Kita",""]],
 	"3994117":[[20,"駒ヶ根市","赤穂","","Komagane-shi","Akaho",""]],
 	"3994231":[[20,"駒ヶ根市","中沢","","Komagane-shi","Nakazawa",""]],
-	"3994232":[[20,"駒ヶ根市","下平","","Komagane-shi","Shimodaira",""],[20,"駒ヶ根市","、２４３３～２４５０）","","Komagane-shi",".2433-2450)",""]],
+	"3994232":[[20,"駒ヶ根市","下平","","Komagane-shi","Shimodaira",""],[20,"駒ヶ根市","、２４３３〜２４５０）","","Komagane-shi",".2433-2450)",""]],
 	"3994301":[[20,"上伊那郡宮田村","宮田村一円","","Miyada-mura, Kamiina-gun","Miyadamuraichien",""]],
 	"3994321":[[20,"駒ヶ根市","東伊那","","Komagane-shi","Higashiina",""]],
 	"3994431":[[20,"伊那市","西春近","","Ina-shi","Nishiharuchika",""]],
