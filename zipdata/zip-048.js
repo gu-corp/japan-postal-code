@@ -146,7 +146,7 @@ zipdata({
 	"0482335":[[1,"余市郡仁木町","銀山","","Niki-cho, Yoichi-gun","Ginzan",""]],
 	"0482400":[[1,"余市郡仁木町","","","Niki-cho, Yoichi-gun","",""]],
 	"0482401":[[1,"余市郡仁木町","旭台","","Niki-cho, Yoichi-gun","Asahidai",""]],
-	"0482402":[[1,"余市郡仁木町","大江","","Niki-cho, Yoichi-gun","Oe",""],[1,"余市郡仁木町","３－４、２０、６７８、６８７番地）","","Niki-cho, Yoichi-gun","3-4.20.678.687-banchi)",""]],
+	"0482402":[[1,"余市郡仁木町","大江","","Niki-cho, Yoichi-gun","Oe",""],[1,"余市郡仁木町","３−４、２０、６７８、６８７番地）","","Niki-cho, Yoichi-gun","3-4.20.678.687-banchi)",""]],
 	"0482403":[[1,"余市郡仁木町","然別","","Niki-cho, Yoichi-gun","Shikaribetsu",""]],
 	"0482404":[[1,"余市郡仁木町","砥の川","","Niki-cho, Yoichi-gun","Tonokawa",""]],
 	"0482405":[[1,"余市郡仁木町","北町","","Niki-cho, Yoichi-gun","Kitamachi",""]],

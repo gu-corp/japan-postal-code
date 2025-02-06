@@ -48,7 +48,7 @@ zipdata({
 	"4070263":[[19,"韮崎市","穴山町","","Nirasaki-shi","Anayamamachi",""]],
 	"4070301":[[19,"北杜市","高根町清里","","Hokuto-shi","Takanecho Kiyosato",""]],
 	"4070302":[[19,"北杜市","高根町浅川","","Hokuto-shi","Takanecho Asakawa",""]],
-	"4070311":[[19,"北杜市","大泉町西井出８２４０－１","","Hokuto-shi","Oizumichonishiide 8240-1",""]],
+	"4070311":[[19,"北杜市","大泉町西井出８２４０−１","","Hokuto-shi","Oizumichonishiide 8240-1",""]],
 	"4070321":[[19,"北杜市","須玉町上津金","","Hokuto-shi","Sutamacho Kamitsugane",""]],
 	"4070322":[[19,"北杜市","須玉町下津金","","Hokuto-shi","Sutamacho Shimotsugane",""]]
 })
